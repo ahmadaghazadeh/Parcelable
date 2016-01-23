@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Passing object by Intent (Parcelable)</string>
+    <string name="title_activity_two">TwoActivity</string>
+</resources>
